@@ -3,8 +3,8 @@ Group Members:
 Name                       ID
 1.Sultana Parvin Kona	   21225103225
 2.Mashruba Akter Mishu     21225103202
-3.Syed Alvi Ahad           21225103192
+3.Syed Alve Ahad           21225103192
 4.Md Syfulla Santo         21225103186
 5.Amirul Islam Sajib       21225103210
 
-project Title:"E-Library Management System"
+project Title:"Teacher Hiring Platform"
